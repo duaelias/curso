@@ -1,0 +1,7 @@
+/Users/duaelias/Projects/TesteBD/Exemplo/bin/Debug/Exemplo.exe
+/Users/duaelias/Projects/TesteBD/Exemplo/bin/Debug/Exemplo.pdb
+/Users/duaelias/Projects/TesteBD/Exemplo/bin/Debug/System.Data.SqlClient.dll
+/Users/duaelias/Projects/TesteBD/Exemplo/bin/Debug/System.Data.SqlClient.xml
+/Users/duaelias/Projects/TesteBD/Exemplo/obj/Debug/Exemplo.csproj.CopyComplete
+/Users/duaelias/Projects/TesteBD/Exemplo/obj/Debug/Exemplo.exe
+/Users/duaelias/Projects/TesteBD/Exemplo/obj/Debug/Exemplo.pdb

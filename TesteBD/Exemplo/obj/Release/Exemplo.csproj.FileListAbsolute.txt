@@ -1,0 +1,6 @@
+/Users/duaelias/Projects/TesteBD/Exemplo/bin/Release/Exemplo.exe
+/Users/duaelias/Projects/TesteBD/Exemplo/bin/Release/System.Data.SqlClient.dll
+/Users/duaelias/Projects/TesteBD/Exemplo/bin/Release/System.Data.SqlClient.xml
+/Users/duaelias/Projects/TesteBD/Exemplo/obj/Release/Exemplo.csprojAssemblyReference.cache
+/Users/duaelias/Projects/TesteBD/Exemplo/obj/Release/Exemplo.csproj.CopyComplete
+/Users/duaelias/Projects/TesteBD/Exemplo/obj/Release/Exemplo.exe

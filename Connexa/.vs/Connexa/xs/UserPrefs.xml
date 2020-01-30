@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{EC5250F4-106B-4657-A820-D80A0F3C86A1}|Default">
+  <MonoDevelop.Ide.ItemProperties.Connexa PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Connexa/Program.cs">
+    <Files>
+      <File FileName="Connexa/Program.cs" Line="45" Column="18" />
+      <File FileName="Connexa/UsuarioAplicacao.cs" Line="28" Column="61" />
+      <File FileName="Connexa/bd.cs" Line="6" Column="1" />
+      <File FileName="Connexa/Usuario.cs" Line="6" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Connexa" expanded="True">
+            <Node name="Connexa" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

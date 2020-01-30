@@ -1,0 +1,11 @@
+/Users/duaelias/Projects/Course3/Course3/bin/Debug/netcoreapp3.1/Course3
+/Users/duaelias/Projects/Course3/Course3/bin/Debug/netcoreapp3.1/Course3.deps.json
+/Users/duaelias/Projects/Course3/Course3/bin/Debug/netcoreapp3.1/Course3.runtimeconfig.json
+/Users/duaelias/Projects/Course3/Course3/bin/Debug/netcoreapp3.1/Course3.runtimeconfig.dev.json
+/Users/duaelias/Projects/Course3/Course3/bin/Debug/netcoreapp3.1/Course3.dll
+/Users/duaelias/Projects/Course3/Course3/bin/Debug/netcoreapp3.1/Course3.pdb
+/Users/duaelias/Projects/Course3/Course3/obj/Debug/netcoreapp3.1/Course3.csprojAssemblyReference.cache
+/Users/duaelias/Projects/Course3/Course3/obj/Debug/netcoreapp3.1/Course3.AssemblyInfoInputs.cache
+/Users/duaelias/Projects/Course3/Course3/obj/Debug/netcoreapp3.1/Course3.AssemblyInfo.cs
+/Users/duaelias/Projects/Course3/Course3/obj/Debug/netcoreapp3.1/Course3.dll
+/Users/duaelias/Projects/Course3/Course3/obj/Debug/netcoreapp3.1/Course3.pdb

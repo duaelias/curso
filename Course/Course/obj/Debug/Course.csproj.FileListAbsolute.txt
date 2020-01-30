@@ -1,0 +1,5 @@
+/Users/duaelias/Projects/Course/Course/bin/Debug/Course.exe
+/Users/duaelias/Projects/Course/Course/bin/Debug/Course.pdb
+/Users/duaelias/Projects/Course/Course/obj/Debug/Course.csprojAssemblyReference.cache
+/Users/duaelias/Projects/Course/Course/obj/Debug/Course.exe
+/Users/duaelias/Projects/Course/Course/obj/Debug/Course.pdb

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{BE727CF7-D8CC-4E76-A141-30C8F09B0105}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Course3/Program.cs">
+    <Files>
+      <File FileName="Course3/Program.cs" Line="23" Column="56" />
+      <File FileName="Course3/ContaBancaria.cs" Line="15" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Course3" expanded="True">
+            <Node name="Course3" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Course3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
